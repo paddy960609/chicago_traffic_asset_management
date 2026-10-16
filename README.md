@@ -1,4 +1,3 @@
-# chicago_traffic_asset_management
 # Chicago Transportation Congestion & Capital Investment Prioritization
 
 **A data-driven infrastructure capital strategy case study using Python, geospatial analytics, multi-criteria decision analysis, and constrained optimization.**
