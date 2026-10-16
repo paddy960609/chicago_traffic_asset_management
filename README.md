@@ -186,10 +186,11 @@ chicago-transportation-capital-strategy/
 ├── README.md
 ├── notebooks/
 │   └── transportation_capital_strategy.ipynb
-├── data/
-│   └── README.md
 └── outputs/
-    └── README.md
+    └── capital program cost sensitivity.png
+    └── corridor allocation list.png
+    └── scheduled annual capital allocation.png
+
 ```
 
 *Adjust the repository structure above to match the files actually committed to GitHub.*
