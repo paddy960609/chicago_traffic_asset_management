@@ -132,9 +132,10 @@ The selected projects' five-year spending profiles reconcile to their midpoint c
 *Positive variance indicates remaining budget capacity; negative variance indicates a funding shortfall.*
 
 The high-cost scenario exceeds the program cap by $75 million, demonstrating that a portfolio affordable at midpoint estimates may not remain affordable under cost escalation or adverse project-level estimates.
-
+![alt text](<images/corridor allocation list .png>)
+![alt text](<images/capital program cost sensitivity.png>)
 A separate scenario requiring at least nine Tier 1 corridors was infeasible with a $200 million net project budget after reserving $25 million from a $225 million total budget. This illustrates the trade-off between policy requirements and available funding.
-
+![alt text](<images/scheduled annual capital allocation.png>)
 ## Key Takeaways
 
 - **Prioritization requires multiple perspectives.** Congestion alone does not capture safety burdens or the potential importance of transit-served corridors.
